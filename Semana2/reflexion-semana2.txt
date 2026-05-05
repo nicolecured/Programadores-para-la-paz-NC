@@ -1,0 +1,2 @@
+¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?
+ofrece ventajas cruciales en velocidad, automatización y control que las interfaces gráficas (GUI) no pueden igualar
