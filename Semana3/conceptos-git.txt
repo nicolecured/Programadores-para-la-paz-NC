@@ -1,0 +1,5 @@
+Abre el archivo conceptos-git.txt y escribe una explicación corta de los siguientes conceptos:
+•	Repositorio ---> espacio de almacenamiento digital y centralizado en la nube (un "repo") utilizado para alojar, gestionar y 
+controlar las versiones de los archivos de un proyecto de software, incluyendo su historial de cambios, código fuente, imágenes y documentación
+•	Commit --->  es una "instantánea" o foto del estado de tus archivos en un momento específico, actuando como un punto de guardado seguro en tu historial de proyecto
+•	Push ---> Un push en GitHub es el comando git push utilizado para transferir o "subir" los cambios (commits) realizados en tu repositorio local a un repositorio remoto en GitHub. 
